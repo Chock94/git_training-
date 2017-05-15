@@ -1,6 +1,6 @@
-# git_training
+# Entrenamiento de Git
 
-Este es un repositorio para aprender git
+Este es un repositorio para aprender Git
 
 * Agregar cosas a control de versiones.
 * Crear una nueva version.
